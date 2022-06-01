@@ -1,0 +1,19 @@
+.uml-theory-test-table td {
+  padding-right: 10px;
+}
+
+.uml-theory-test-table .input-icon-wrapper {
+    position: relative;
+}
+
+.input-icon-wrapper input {
+    width: 200px;
+}
+
+.input-icon-wrapper #input-icon {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 4px;
+    left: 185px;
+}
